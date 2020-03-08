@@ -22,6 +22,7 @@ https://sefiks.com/2018/08/06/deep-face-recognition-with-keras/ for more details
 
 # PC specification
 RTX 2060
+
 i5-9400F
 16Gb RAM DDR4
 tensorflow-GPU 2.0
