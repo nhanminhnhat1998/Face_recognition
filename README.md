@@ -21,13 +21,7 @@ I also learn get the code and modified the code from Mr. Sefik Ilkin Serengil, h
 https://sefiks.com/2018/08/06/deep-face-recognition-with-keras/ for more details.
 
 # PC specification
-RTX 2060
-
-i5-9400F
-16Gb RAM DDR4
-tensorflow-GPU 2.0
-Keras 2.2.4
-python 3.6.1
+RTX 2060 | i5-9400F | 16Gb RAM DDR4 | tensorflow-GPU 2.0 | Keras 2.2.4 | python 3.6.1
 
 
 
